@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Quarters</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="textview">TextView</string>
+    <array name="FilterBy">
+
+        <item>department</item>
+        <item>year</item>
+        <item>semester</item>
+
+    </array>
+
+    <array name="Dept">
+        <item>Comp</item>
+        <item>It</item>
+        <item>EnTC</item>
+
+    </array>
+    <array name="Year">
+        <item>F.E.</item>
+        <item>S.E.</item>
+        <item>T.E</item>
+        <item>B.E</item>
+
+    </array>
+    <array name="Semester">
+        <item>First</item>
+        <item>Second</item>
+
+
+    </array>
+</resources>

@@ -1,0 +1,7 @@
+#Mon Oct 15 15:06:38 IST 2018
+base.0=/root/AndroidStudioProjects/finally/Quarters/app/build/intermediates/transforms/dexMerger/debug/10
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/root/AndroidStudioProjects/finally/Quarters/app/build/intermediates/transforms/dexMerger/debug/10
